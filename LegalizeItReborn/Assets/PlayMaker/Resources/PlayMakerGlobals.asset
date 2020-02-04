@@ -40,3 +40,6 @@ MonoBehaviour:
   events:
   - Mouse Dentro
   - Mouse Fuori
+  - Cliccato
+  - CliccatoYes
+  - CliccatoNo
